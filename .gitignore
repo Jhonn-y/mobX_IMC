@@ -20,6 +20,8 @@ pubspec.lock
 counter_codegen_controller.g.dart
 imc_controller.g.dart
 observable_list_controller.g.dart
+product_store.g.dart
+observable_model_controller.g.dart
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
